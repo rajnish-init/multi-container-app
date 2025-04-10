@@ -16,6 +16,8 @@ All exercises and examples are derived or inspired from:
 - Networking between containers
 - Simple multi-container apps (with `docker-compose`)
 
+![Image](https://github.com/user-attachments/assets/faed9555-b735-4414-8428-5699414bc997)
+
 ## 🚀 My Changes / Experiments
 
 This repo is not a direct clone — I've modified and added:
